@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/images/data wizards.png" alt="Logo equipe 9" width="400"/>
+</p>
 # <Previsão de rotatividade de clientes bancários>
 
 Uma das coisas mais importantes para qualquer tipo de negócio é que os clientes continuem uitlizando seus produtos. Bancos enfrentam o desafio de reduzir a perda de clientes. A rotatividade de clientes do banco, refere-se à taxa na qual os clientes decidem encerrar seu relacionamento com a instituição financeira, também conhecido como churn. Entender essa rotatividade, e como reduzi-lá, é importante para as empresas que buscam expandir seus negócios e construir vínculos com os clientes.
