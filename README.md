@@ -8,11 +8,13 @@ Uma das coisas mais importantes para qualquer tipo de negócio é que os cliente
 Por isso urge a necessidade de compreender e explorar estratégias que irão fazer com que o banco mantenha seus clientes.
 Para isso, a análise dos dados é a principal ferramenta para identificar padrões e fatores associados ao problema para, a partir disso, tomar ações com objetivo de mitigá-lo.
 
-[graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+<p align="center">
+  <img src="docs/images/Graphical Abstract.png" alt="Graphical Abstract" width="400"/>
+</p>
 
 ## Desenvolvedores
  - [Wesley Freire](https://github.com/Rwalam)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
+ - [Milena Andrade](https://github.com/milenaaraujoa)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
  - [Nome do desenvolvedor #5](url-do-github-do-desenvolvedor-#5)

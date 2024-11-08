@@ -1,0 +1,13 @@
+variavel,descricao,tipo,subtipo
+CustomerId,Identificador único do cliente,Quantitativa,Discreta
+CreditScore,Pontuação de crédito do cliente,Quantitativa,Discreta
+Geography,Localização geográfica do cliente,Qualitativa,Nominal
+Gender,Genero do Cliente,Qualitativa,Nominal
+Age,Idade do Cliente,Quantitativa,Discreta
+Tenure,O número de anos que o cliente está no banco,Quantitiva,Discreta
+Balance,Saldo da conta do cliente,Quantitativa,Continua
+NumOfProducts,Número de produtos bancários que o cliente possui,Quantitativa,Discreta
+HasCrCard,Indica se o cliente possui cartão de crédito  (binário: sim/não).,Qualitativa,Nominal
+IsActiveMember, Indica se o cliente é um membro ativo (binário: sim/não).,Qualitativa,Nominal
+EstimatedSalary,O salário estimado do cliente.,Quantitativa,Contínua
+Exited, Indica se o cliente saiu do banco (binário: sim/não).,Qualitativa,Nominal
