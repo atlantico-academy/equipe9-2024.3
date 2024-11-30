@@ -47,7 +47,3 @@ Os resultados esperados dessa análise incluem identificar a taxa de evasão de 
 ## Desenvolvedores
  - [Wesley Freire](https://github.com/Rwalam)
  - [Milena Andrade](https://github.com/milenaaraujoa)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - [Nome do desenvolvedor #5](url-do-github-do-desenvolvedor-#5)
- - [Nome do desenvolvedor #6](url-do-github-do-desenvolvedor-#6)
